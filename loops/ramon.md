@@ -30,5 +30,5 @@ El total de billetes de 100 que te va a prestar es 1
 No te puedo prestar dinero 0  
 
 Solicita un numero mayor a cero 
- 
+
 Solicita un numero mayor a cero  
