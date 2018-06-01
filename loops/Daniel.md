@@ -39,7 +39,34 @@ Inicio
 fin
 
 
+## corridas de prueba 1
+cantidad_dinero
+0
+0
+-1
+100
 
+pantalla
+Cuanto dinero quieres"
+" Dame una cantidad real para prestarte ....¬¬ "
+" Dame una cantidad real para prestarte ....¬¬ "
+billetes de 100 que me puede prestar " 1
+dinero que no prestara " 0
+
+
+
+
+## corridas de prueba 1
+
+
+cantidad_dinero
+0
+1234
+
+pantalla
+Cuanto dinero quieres"
+billetes de 100 que me puede prestar " 12
+dinero que no prestara " 34
 
 
 
