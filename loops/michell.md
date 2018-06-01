@@ -16,7 +16,9 @@ fin
 
 dinero
 0
-
+1
+3
 
 pantalla
+no te puedo prestar
 no te puedo prestar
