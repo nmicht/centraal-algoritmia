@@ -6,6 +6,7 @@ Solo te pueden prestar múltiplos de 100 y el restante no te lo pueden prestar
 
 ## Pseudocodigo
 
+```
 Inicio
 
     cantidad = 0  
@@ -17,11 +18,9 @@ Inicio
     Fin  
 Imprimir "El total de billetes de 100 que te va a prestar es" cantidad / 100   
 Imprimir "No te puedo prestar la cantidad de" cantidad % 100 
-
-
- 
    
 Fin
+```
 
 ## Corridas de escritorio
 
