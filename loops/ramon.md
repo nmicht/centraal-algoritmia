@@ -7,6 +7,7 @@ Solo te pueden prestar múltiplos de 100 y el restante no te lo pueden prestar
 ## Pseudocodigo
 
 Inicio
+
     cantidad = 0  
     Leer y guardar cantidad    
     mientras (cantidad <= 0)  
