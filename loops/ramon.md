@@ -12,10 +12,14 @@ Inicio
     Leer y guardar cantidad    
     mientras (cantidad <= 0)  
     Inicio  
-        Imprimir "El total de billetes de 100 que te va a prestar es" cantidad / 100   
-        Imprimir "No te puedo prestar la cantidad de" cantidad % 100   
-    Fin  
     Imprimir "Solicita un numero mayor a cero"   
+    Leer y guardar cantidad          
+    Fin  
+Imprimir "El total de billetes de 100 que te va a prestar es" cantidad / 100   
+Imprimir "No te puedo prestar la cantidad de" cantidad % 100 
+
+
+ 
    
 Fin
 
