@@ -1,3 +1,4 @@
+```
 InicioPrograma
   Imprime 'Cuanto dinero quieres?'
 
@@ -14,4 +15,3 @@ InicioPrograma
       Imprime 'No te puedo dar esta cantidad'(dinero%100)
 
     Fin
-  
