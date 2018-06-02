@@ -1,0 +1,22 @@
+Inicio
+    quiereBeso = no
+    mientras (quiereBeso == si)
+    Inicio    
+        Imprime "Quieres un beso?"  
+        Leer y guardar quiereBeso <- no
+        besar()
+    Fin
+    despedirse()
+Fin
+
+quiereBeso
+no
+si
+si
+no
+
+pantalla
+quieres un beso?
+beso ricamente
+Quieres un beso?
+beso ricamente
