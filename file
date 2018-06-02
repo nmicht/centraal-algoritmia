@@ -1,0 +1,6 @@
+Inicio
+    luz = verdadero
+    mientras(luz == verdadero)
+        Imprime "Hay luz"
+        Leer y guardar luz
+Fin
