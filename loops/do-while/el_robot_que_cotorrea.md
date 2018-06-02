@@ -1,15 +1,16 @@
-#El robot que cotorrea:
+# El robot que cotorrea:
 
-##Problema
+## Problema  
 Se requiere que un roboto-chat inicie la conversación con el usuario. A partir del saludo el robot tendrá que preguntar "algo" al usuario y dependiendo si el usuario le responde con palabras "clave" el robot tendrá que decidir si continúa con un monologo o se despide.
 
 Nuestro SDK(software development kit) nos explica que podemos usar las siguientes funcionalidades:
 
-saludar ()  
-preguntar_tema_random ()  
-monologo ()  
-despedirse ()  
-##Pseudocódigo
+* saludar ()  
+* preguntar_tema_random ()  
+* monologo ()  
+* despedirse ()  
+
+## Pseudocódigo  
 ```
 Inicio
   respuesta_saludo
@@ -29,5 +30,7 @@ Inicio
     despedirse ()
 inicio_Fin
 ```
-##Nombres
-Andrea, Karla y Cristian
+## Nombres  
+* Andrea
+* Karla
+* Cristian
